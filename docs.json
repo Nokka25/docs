@@ -121,5 +121,13 @@
   },
   "interaction": {
     "drilldown": true
+  },
+  "errors": {
+    "404": {
+      "redirect": true
+    }
+  },
+  "metadata": {
+    "timestamp": true
   }
 }
